@@ -1,0 +1,26 @@
+{
+  "name": "lab02-httpserver",
+  "version": "0.0.0",
+  "description": "Servidor http basico",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanLuky/pwm-server.git"
+  },
+  "keywords": [
+    "server",
+    "node",
+    "static",
+    "javascript"
+  ],
+  "author": "ivan999art@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanLuky/pwm-server/issues"
+  },
+  "homepage": "https://github.com/ivanLuky/pwm-server#readme"
+}
